@@ -1,62 +1,56 @@
-<p align="center">
-  <a href="https://www.thecloudventures.com">
-    <img src="https://www.thecloudventures.com/og-default.png" alt="Cloud Ventures — Secure Infrastructure for Tomorrow" width="100%">
-  </a>
-</p>
-
-<h2 align="center">Build, secure, and run your cloud with one expert team.</h2>
-
-<p align="center">
-  Cloud & DevOps engineering across <b>AWS · Azure · GCP · Kubernetes</b> — from strategy and migration to security, compliance, and 24×7 operations.
-</p>
-
-<p align="center">
-  <a href="https://www.thecloudventures.com"><img src="https://img.shields.io/badge/Website-thecloudventures.com-0F172A?style=for-the-badge" alt="Website"></a>
-  <a href="https://cal.com/cloudventures/30min"><img src="https://img.shields.io/badge/Book%20a%20free%20call-30%20min-F2A900?style=for-the-badge" alt="Book a free call"></a>
-  <a href="https://www.linkedin.com/company/thecloudventures"><img src="https://img.shields.io/badge/LinkedIn-Cloud%20Ventures-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-</p>
 
 ---
 
-### 🧭 What we do
+## 📦 Fixed-scope modules
 
-| Service | What you get |
-|---|---|
-| ☁️ **[Cloud strategy & migration](https://www.thecloudventures.com/services/cloud-migration)** | Landing zones, multi-account foundations, low-downtime migrations |
-| ⚙️ **[DevOps & CI/CD](https://www.thecloudventures.com/services/devops-automation)** | Pipelines, GitOps, platform engineering with security gates built in |
-| ☸️ **[Kubernetes & SRE](https://www.thecloudventures.com/services/kubernetes-containers)** | Production-ready EKS / AKS / GKE with SLOs and observability |
-| 🔐 **[Security & compliance](https://www.thecloudventures.com/services/cloud-security)** | Hardening, DevSecOps, SOC 2 · ISO 27001 · HIPAA · PCI DSS · DPDP readiness |
-| 💰 **[Cost optimisation](https://www.thecloudventures.com/services/cost-optimisation)** | Rightsizing, idle-resource cleanup, commitment strategy |
-| 🛡️ **[24×7 managed ops](https://www.thecloudventures.com/services/managed-cloud-support)** | Monitoring, patching, incident response, ongoing tuning |
+Clear outcomes, public starting prices and a written scope before work begins. See [all modules](https://www.thecloudventures.com/modules) and [pricing](https://www.thecloudventures.com/pricing).
 
-### 🚀 How we work
+| Module | Typical timeline | Starts at |
+|---|---|---|
+| [Cloud Landing Zone](https://www.thecloudventures.com/modules/landing-zone) | 3–5 weeks | $4,500 |
+| [Secure Delivery Pipeline](https://www.thecloudventures.com/modules/cicd-platform) | 2–4 weeks | $3,500 |
+| [Production Kubernetes Base](https://www.thecloudventures.com/modules/kubernetes-platform) | 4–6 weeks | $6,000 |
+| [Signal & Alert Stack](https://www.thecloudventures.com/modules/observability-pack) | 2–3 weeks | $3,000 |
+| [Cloud Posture Hardening](https://www.thecloudventures.com/modules/security-hardening) | 2–4 weeks | $3,500 |
+| [Control & Evidence Ready](https://www.thecloudventures.com/modules/compliance-readiness) | 3–6 weeks | $5,000 |
+| [Cloud Cost Sprint](https://www.thecloudventures.com/modules/finops-optimizer) | 2–3 weeks | $2,500 |
+| [Managed Platform Ops](https://www.thecloudventures.com/modules/managed-cloud-ops) | Onboarding in 1–2 weeks | $2,500 / month |
 
-```
-1. Free scoping call   →  2. Fixed-price build   →  3. Run & improve
-   30 min                  2–6 weeks, IaC +          optional 24×7
-                           runbooks + handover       retainer
-```
+> **Compliance:** we provide readiness support for SOC 2, ISO 27001, HIPAA, PCI DSS and DPDP. We don't sell certifications; those come from an independent auditor.
 
-### 📦 On this GitHub
+---
 
-Open-source building blocks from our engagements — Terraform modules, CI/CD templates, and operational tooling. Pinned repositories below.
+## 🧰 Tech we work with
 
-### 🆓 Free tools
+**Clouds:** AWS · Microsoft Azure · Google Cloud
 
-- 📊 **[Cloud Readiness Scorecard](https://www.thecloudventures.com/assessment)** — score your cloud setup in 3 minutes, no email needed
-- 💸 **[Free cloud cost audit](https://www.thecloudventures.com/contact?intent=cost-audit)** — an engineer reviews your billing export
-- 📝 **[Field notes](https://www.thecloudventures.com/blog)** — practical guides on EKS, landing zones, and DevOps
+**Containers:** Kubernetes (Amazon EKS, Azure AKS, Google GKE) · Karpenter · Helm · Argo CD
 
-### 📫 Talk to a cloud engineer
+**Infrastructure as Code:** Terraform · AWS Control Tower & Account Factory for Terraform · Azure Policy · GCP organization policies
 
-🌐 [thecloudventures.com](https://www.thecloudventures.com) · 📅 [Book a free call](https://cal.com/cloudventures/30min) · 💬 [WhatsApp](https://wa.me/919882457271) · 👤 Founder: [@Devops0091](https://github.com/Devops0091)
+**CI/CD:** GitHub Actions · GitLab CI · Azure DevOps
+
+**Observability:** Prometheus · Grafana · OpenTelemetry · CloudWatch · Azure Monitor · Cloud Monitoring
+
+**Cost:** AWS Cost Explorer · Azure Cost Management · GCP Billing · Kubecost
+
+---
+
+## 📚 From our engineering blog
+
+- [Production-Ready Amazon EKS with Terraform: A Complete Guide](https://www.thecloudventures.com/blog/production-ready-amazon-eks-terraform)
+- [AWS Control Tower: When It Helps and When to Customize](https://www.thecloudventures.com/blog/aws-control-tower-when-to-use-it)
+- [More articles on AWS, Azure, GCP, Kubernetes, security and FinOps →](https://www.thecloudventures.com/blog)
+
+---
+
+## 🤝 Work with us
+
+- 📊 **Not sure where to start?** Take the free [Cloud Readiness Scorecard](https://www.thecloudventures.com/assessment). It takes 3 minutes, gives instant results and needs no email.
+- 💬 **Have a project in mind?** [Request a consultation](https://www.thecloudventures.com/contact). An engineer reviews your notes and replies with the right path.
+
+<div align="center">
+
+<sub>© Cloud Ventures (TheCloudVentures) · <a href="https://www.thecloudventures.com">thecloudventures.com</a></sub>
+
+</div>
