@@ -63,7 +63,6 @@ Open-source building blocks from our engagements — Terraform modules, CI/CD te
 | | |
 |---|---|
 | 📧 **Email** | [enquiry@thecloudventures.com](mailto:enquiry@thecloudventures.com) |
-| 📞 **Phone** | [+91 98166 97440](tel:+919816697440) |
 | 💬 **WhatsApp** | [Chat with us](https://wa.me/919816697440?text=Hi%20Cloud%20Ventures%2C%20I'd%20like%20to%20discuss%20a%20cloud%20project.) |
 | 📅 **Book a call** | [cal.com/cloudventures/30min](https://cal.com/cloudventures/30min) |
 | 📝 **Contact form** | [thecloudventures.com/contact](https://www.thecloudventures.com/contact) |
